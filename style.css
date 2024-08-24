@@ -273,6 +273,13 @@ li {
     margin-bottom: 2rem;
 }
 
+.potsHead a,
+.budgetsHead a,
+.transactionsHead a,
+.recurringHead a {
+    color: var(--darkcolor);
+}
+
 .potsHead b,
 .budgetsHead b,
 .transactionsHead b,
