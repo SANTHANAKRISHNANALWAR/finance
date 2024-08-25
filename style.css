@@ -65,7 +65,7 @@ footer {
 } */
 
 .align {
-    max-width: 1200px;
+    /* max-width: 1200px; */
     margin: auto;
     padding: 0 6rem;
 }
